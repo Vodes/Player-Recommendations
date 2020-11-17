@@ -1,6 +1,8 @@
+A lot of this is preference based. Just dont use VLC on Desktop as it [alters colors](https://slow.pics/c/qBsQ8AJ0).
+
 # Desktop
 
-### Windows only
+### Windows
 - **MPC-HC**<br/>
   a very mature and easy to use player<br/>
   [Download](https://github.com/clsid2/mpc-hc/releases)
@@ -10,6 +12,11 @@
 - **mpv.net**<br/>
   A C# Port of mpv with more UI for customization which makes it a little easier<br/>
   [Download](https://github.com/stax76/mpv.net/releases/latest)
+  
+### Linux
+- **Gnome-MPV / Celluloid**<br/>
+  An easier to use UI for mpv, still supports all of the scripts that mpv does<br/>
+  [Download](https://github.com/celluloid-player/celluloid#Installation)
   
 ### Universal
 - **mpv**<br/>
@@ -32,6 +39,9 @@
   [Mirror](https://www.apkmirror.com/apk/prismriver-media/mpv-android/)
   
 ### iOS
+- **VLC**<br/>
+  Same reason as on VLC Android<br/>
+  [Download](https://apps.apple.com/app/vlc-for-mobile/id650377962)
 - **Infuse**<br/>
   Very easy to use, more of a media manager & player in one<br/>
-  [Download](https://apps.apple.com/de/app/infuse-6/id1136220934)
+  [Download](https://apps.apple.com/app/infuse-6/id1136220934)
