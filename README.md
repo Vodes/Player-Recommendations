@@ -3,9 +3,6 @@ A lot of this is preference based. Just dont use VLC on Desktop as it [alters co
 # Desktop
 
 ### Windows
-- **MPC-HC**<br/>
-  a very mature and easy to use player<br/>
-  [Download](https://github.com/clsid2/mpc-hc/releases)
 - **Pot Player**<br/>
   has a good looking UI and is very easy to use<br/>
   [Download](https://potplayer.daum.net)
