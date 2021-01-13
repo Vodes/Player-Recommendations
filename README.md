@@ -19,8 +19,10 @@ A lot of this is preference based. Just dont use VLC on Desktop as it [alters co
 ### Universal
 - **mpv**<br/>
   highly customizable, requires manual config, available on Windows/MacOS/Linux<br/>
-  [Download](https://mpv.io/installation/)
-  
+  [Download](https://mpv.io/installation/)<br/>
+  Some Configs you can get:<br/>
+  - [LightArrowsExe's Config](https://github.com/LightArrowsEXE/dotfiles/tree/master/mpv) (requires a rather strong pc)<br/>
+  - [MPV-Made-Easy by Moodkiller](https://github.com/Moodkiller/MPV-Made-Easy)
 
 # Mobile
 
