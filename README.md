@@ -31,7 +31,7 @@ A lot of this is preference based. Just dont use VLC on Desktop as it [alters co
   VLC using a different rendering engine on Android makes it useable and actually one of the better options<br/>
   [Download](https://play.google.com/store/apps/details?id=org.videolan.vlc)<br/>[Mirror](https://www.apkmirror.com/apk/videolabs/vlc/)
 - **MX Player (Pro)** <br/>
-  Easy to use, performs better than VLC but the non-pro Version has ads which are annoying<br/>
+  Easy to use, can perform better than VLC in some cases but the non-pro Version has ads which are annoying<br/>
   [Download](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad)<br/>[Buy (Pro)](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.pro)</br>[Mirror](https://www.apkmirror.com/apk/mx-media-entertainment-formerly-j2-interactive/mx-player/)
 - **mpv** <br/>
   Requires less manual config than on desktop since inputs are predefined<br/>
