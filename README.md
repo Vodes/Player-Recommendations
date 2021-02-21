@@ -51,5 +51,5 @@ A lot of this is preference based. Just dont use VLC on Desktop as it [alters co
   Very easy to use, more of a media manager & player in one<br/>
   [Download](https://apps.apple.com/app/infuse-6/id1136220934)
 - **Documents**<br/>
-  A Filemanager that can be used similarily to a media center<br/>
+  A Filemanager that can be used similarly to a media center<br/>
   [Download](https://apps.apple.com/app/documents-files-pdf-browser/id364901807)
