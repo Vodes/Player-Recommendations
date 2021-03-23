@@ -7,7 +7,7 @@ A lot of this is preference based. Just dont use VLC on Desktop as it [alters co
   has a good looking UI and is very easy to use<br/>
   [Download](https://potplayer.daum.net)
 - **mpv.net**<br/>
-  A C# Port of mpv with more UI for customization which makes it a little easier<br/>
+  A C# Media Player based on mpv with more UI for customization which makes it a little easier<br/>
   Seems to be hit or miss for some people<br/>
   [Download](https://github.com/stax76/mpv.net/releases/latest)
   
