@@ -29,14 +29,14 @@ A lot of this is preference based. Just dont use VLC on Desktop as it [alters co
 ### Android
 - **VLC**<br/>
   VLC using a different rendering engine on Android makes it useable and actually one of the better options<br/>
+  May or may not have problems with complex typesetting or kfx<br/>
   [Download](https://play.google.com/store/apps/details?id=org.videolan.vlc)<br/>[Mirror](https://www.apkmirror.com/apk/videolabs/vlc/)
 - **mpv**<br/>
-  Requires less manual config than on desktop since inputs are predefined<br/>
+  Practically no manual config needed unlike the desktop version<br/>
   [Download](https://play.google.com/store/apps/details?id=is.xyz.mpv)<br/>
   [Mirror](https://www.apkmirror.com/apk/prismriver-media/mpv-android/)
 - **Kodi**<br/>
-  Definitely also a good option if you want a lot of media center related features<br/>
-  For example easy network drive access<br/>
+  Way more than just a player so it might be overwhelming to use at first<br/>
   [Download](https://play.google.com/store/apps/details?id=org.xbmc.kodi)<br/>
   [Mirror](https://www.apkmirror.com/apk/xbmc-foundation/kodi/)
   
