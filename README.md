@@ -1,9 +1,9 @@
-A lot of this is preference based. Just dont use VLC on Desktop as it [alters colors](https://slow.pics/c/qBsQ8AJ0).
+A lot of this is preference based. Just don't use VLC on Desktop as it [alters colors](https://slow.pics/c/qBsQ8AJ0).
 
 # Desktop
 
 ### Windows
-- **Pot Player**<br/>
+- **PotPlayer**<br/>
   Has a good looking UI and is very easy to use.<br/>
   [Download](https://potplayer.daum.net)
 - **mpv.net**<br/>
@@ -12,7 +12,7 @@ A lot of this is preference based. Just dont use VLC on Desktop as it [alters co
   [Download](https://github.com/stax76/mpv.net/releases/latest)
 
 ### Linux
-- **Gnome-MPV / Celluloid**<br/>
+- **Celluloid (formerly Gnome-MPV)**<br/>
   An easier to use UI for mpv, still supports all of the scripts that mpv does.<br/>
   [Download](https://github.com/celluloid-player/celluloid#Installation)
 
