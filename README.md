@@ -10,12 +10,12 @@ A lot of this is preference based. Just dont use VLC on Desktop as it [alters co
   A C# Media Player based on mpv with more UI for customization which makes it a little easier<br/>
   Seems to be hit or miss for some people<br/>
   [Download](https://github.com/stax76/mpv.net/releases/latest)
-  
+
 ### Linux
 - **Gnome-MPV / Celluloid**<br/>
   An easier to use UI for mpv, still supports all of the scripts that mpv does<br/>
   [Download](https://github.com/celluloid-player/celluloid#Installation)
-  
+
 ### Universal
 - **mpv**<br/>
   highly customizable, requires manual config, available on Windows/MacOS/Linux<br/>
@@ -30,16 +30,16 @@ A lot of this is preference based. Just dont use VLC on Desktop as it [alters co
 - **VLC**<br/>
   VLC using a different rendering engine on Android makes it useable and actually one of the better options<br/>
   May or may not have problems with complex typesetting or kfx<br/>
-  [Download](https://play.google.com/store/apps/details?id=org.videolan.vlc)<br/>[Mirror](https://www.apkmirror.com/apk/videolabs/vlc/)
+  [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc)<br/>[F-Droid](https://f-droid.org/en/packages/org.videolan.vlc/)<br/>
 - **mpv**<br/>
   Practically no manual config needed unlike the desktop version<br/>
-  [Download](https://play.google.com/store/apps/details?id=is.xyz.mpv)<br/>
-  [Mirror](https://www.apkmirror.com/apk/prismriver-media/mpv-android/)
+  [Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)<br/>
+  [F-Droid](https://f-droid.org/en/packages/is.xyz.mpv/)<br/>
 - **Kodi**<br/>
   Way more than just a player so it might be overwhelming to use at first<br/>
-  [Download](https://play.google.com/store/apps/details?id=org.xbmc.kodi)<br/>
-  [Mirror](https://www.apkmirror.com/apk/xbmc-foundation/kodi/)
-  
+  [Google Play](https://play.google.com/store/apps/details?id=org.xbmc.kodi)<br/>
+  [F-Droid](https://f-droid.org/en/packages/org.xbmc.kodi/)<br/>
+
 ### iOS
 - **VLC**<br/>
   Same reason as on VLC Android<br/>
